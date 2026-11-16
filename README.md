@@ -16,3 +16,23 @@ This project strictly follows primitive procedural programming concepts:
 g++ -std=c++17 -Wall -Wextra -Iinclude src/core/*.cpp -o last_train
 ./last_train
 ```
+
+
+## Student Information
+
+- Student: Muhammad Abdullah
+- Roll Number: 26i-2580
+- Course: CS-1002 Programming Fundamentals (AI & DS)
+- Development Environment: Windows, VS Code, g++ 16.1.0
+- Language: C++17
+
+## Development Status
+
+15 Nov: GitHub repository initialized.
+Required folders created.
+Compilation baseline verified.
+
+The provided skeleton is incomplete. 
+Gameplay functions will be implemented during the subsequent development days.
+
+

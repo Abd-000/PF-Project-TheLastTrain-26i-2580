@@ -1,0 +1,22 @@
+# Compiled programs
+last_train
+last_train.exe
+last_train_asan
+last_train_asan.exe
+
+# Compiler-generated object files
+*.o
+*.obj
+
+# Build folders 
+build/
+cmake-build-*/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+__MACOSX/
